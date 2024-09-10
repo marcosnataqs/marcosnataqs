@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Marcosnataqs-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Marcosnataqs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcosnataqs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Marcosnataqs-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Marcosnataqs-FastAPI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg">
+  <img align="center" alt="Marcosnataqs-Scikitlearn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Marcosnataqs-Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Marcosnataqs-Tensorflow" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Marcosnataqs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcosnataqs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcosnataqs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -11,7 +15,6 @@
   <img align="center" alt="Marcosnataqs-Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Marcosnataqs-Nestjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Marcosnataqs-Nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Marcosnataqs-FastAPI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg">
 </div>
   
   ##
